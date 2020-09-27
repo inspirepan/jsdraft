@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e33782c1-77b3-4e1f-a696-b2e688490dbd" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1hwoRL3jk3JdxlVkStr9jy2OUtA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e33782c1-77b3-4e1f-a696-b2e688490dbd" name="默认的" comment="" />
+      <created>1600931507850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600931507850</updated>
+      <workItem from="1600931509973" duration="77000" />
+      <workItem from="1600931656353" duration="894000" />
+      <workItem from="1600932621446" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="142" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600931553852">
+      <screen x="0" y="0" width="1243" height="800" />
+    </state>
+    <state x="304" y="142" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1243.800@0.0.1243.800" timestamp="1600931553852" />
+    <state x="403" y="113" key="FileChooserDialogImpl" timestamp="1600931817067">
+      <screen x="0" y="0" width="1243" height="800" />
+    </state>
+    <state x="403" y="113" key="FileChooserDialogImpl/0.0.1243.800@0.0.1243.800" timestamp="1600931817067" />
+    <state width="1226" height="210" key="GridCell.Tab.0.bottom" timestamp="1600931590328">
+      <screen x="0" y="0" width="1243" height="800" />
+    </state>
+    <state width="1226" height="210" key="GridCell.Tab.0.bottom/0.0.1243.800@0.0.1243.800" timestamp="1600931590328" />
+    <state width="1226" height="210" key="GridCell.Tab.0.center" timestamp="1600931590328">
+      <screen x="0" y="0" width="1243" height="800" />
+    </state>
+    <state width="1226" height="210" key="GridCell.Tab.0.center/0.0.1243.800@0.0.1243.800" timestamp="1600931590328" />
+    <state width="1226" height="210" key="GridCell.Tab.0.left" timestamp="1600931590328">
+      <screen x="0" y="0" width="1243" height="800" />
+    </state>
+    <state width="1226" height="210" key="GridCell.Tab.0.left/0.0.1243.800@0.0.1243.800" timestamp="1600931590328" />
+    <state width="1226" height="210" key="GridCell.Tab.0.right" timestamp="1600931590328">
+      <screen x="0" y="0" width="1243" height="800" />
+    </state>
+    <state width="1226" height="210" key="GridCell.Tab.0.right/0.0.1243.800@0.0.1243.800" timestamp="1600931590328" />
+    <state x="376" y="20" key="SettingsEditor" timestamp="1600932428673">
+      <screen x="0" y="0" width="1243" height="800" />
+    </state>
+    <state x="376" y="20" key="SettingsEditor/0.0.1243.800@0.0.1243.800" timestamp="1600932428673" />
+  </component>
+</project>
